@@ -1,3 +1,7 @@
+'''
+Imperative version of a simple dice game
+'''
+
 from random import random
 
 def lancia(tipo_lancio):
