@@ -1,5 +1,5 @@
 # Dadi
-Giochino scemo del lancio dei dadi
+Giochino scemo del lancio dei dadi per lo studio di Python.
 
 Il programma simula il lancio di due dadi in due modalità: equa o truffaldina.
 Lo scopo è quello di fare coppia. Nella modalità equa la percentuale
